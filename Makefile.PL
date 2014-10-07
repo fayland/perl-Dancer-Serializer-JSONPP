@@ -10,7 +10,7 @@ use ExtUtils::MakeMaker 6.30;
 
 
 my %WriteMakefileArgs = (
-  "ABSTRACT" => "serializer with JSON::PP",
+  "ABSTRACT" => "Dancer serializer with JSON::PP",
   "AUTHOR" => "Fayland Lam <fayland\@gmail.com>",
   "BUILD_REQUIRES" => {},
   "CONFIGURE_REQUIRES" => {

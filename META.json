@@ -1,5 +1,5 @@
 {
-   "abstract" : "serializer with JSON::PP",
+   "abstract" : "Dancer serializer with JSON::PP",
    "author" : [
       "Fayland Lam <fayland@gmail.com>"
    ],
@@ -48,6 +48,17 @@
       }
    },
    "release_status" : "stable",
+   "resources" : {
+      "bugtracker" : {
+         "web" : "https://github.com/fayland/perl-Dancer-Serializer-JSONPP/issues"
+      },
+      "homepage" : "https://github.com/fayland/perl-Dancer-Serializer-JSONPP",
+      "repository" : {
+         "type" : "git",
+         "url" : "https://github.com/fayland/perl-Dancer-Serializer-JSONPP.git",
+         "web" : "https://github.com/fayland/perl-Dancer-Serializer-JSONPP"
+      }
+   },
    "version" : "0.01"
 }
 

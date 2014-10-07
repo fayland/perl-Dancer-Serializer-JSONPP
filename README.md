@@ -1,6 +1,9 @@
+[![Build Status](https://travis-ci.org/fayland/perl-Dancer-Serializer-JSONPP.svg?branch=master)](https://travis-ci.org/fayland/perl-Dancer-Serializer-JSONPP)
+[![Coverage Status](https://coveralls.io/repos/fayland/perl-Dancer-Serializer-JSONPP/badge.png?branch=master)](https://coveralls.io/r/fayland/perl-Dancer-Serializer-JSONPP?branch=master)
+
 # NAME
 
-Dancer::Serializer::JSONPP - serializer with JSON::PP
+Dancer::Serializer::JSONPP - Dancer serializer with JSON::PP
 
 # SYNOPSIS
 
