@@ -29,7 +29,7 @@ information and a full list of configuration settings. You can add extra
 settings to the __engines__ configuration to turn these on. For example:
 
     engines:
-        JSON:
+        JSONPP:
             allow_blessed:   '1'
             canonical:       '1'
             convert_blessed: '1'
