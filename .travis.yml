@@ -6,7 +6,8 @@ perl:
     - "5.12"
     - "5.10"
 before_install:
-    - "cpanm Mojo::UserAgent"
+    - "cpanm Dancer"
+    - "cpanm JSON::PP"
     - "cpanm Test::More"
     - "cpanm Devel::Cover::Report::Coveralls"
 script:
